@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssef-hamrosh-a956712b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-hamrosh-a956712b0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youssefhamrosh1752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssefhamrosh1752" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQmvvKZJc23r_wJ2JNWIdfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssefhamrosh1752" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yhamrosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yhamrosh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yhamrosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yhamrosh" height="30" width="40" /></a>
 </p>
